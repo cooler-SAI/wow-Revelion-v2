@@ -1,0 +1,1 @@
+UPDATE `creature_template` SET `unit_flags` = 33554432, `MovementType` = 1, `HoverHeight` = 1, `InhabitType` = 4 WHERE `entry` = 10415;
